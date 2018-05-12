@@ -1,0 +1,33 @@
+_repo: A-Humble-Enterprise_37866
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Simmons, St. Clair
+    gutenberg_agent_id: '39098'
+    url: http://www.gutenberg.org/2009/agents/39098
+covers:
+- cover_type: archival
+  image_path: 37866-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cambridge, Ada
+    alias: Cross, Ada Cambridge
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '1403'
+    url: http://www.gutenberg.org/2009/agents/1403
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Cambridge
+description: ''
+gutenberg_issued: '2011-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: A Humble Enterprise
+url: http://www.gutenberg.org/ebooks/37866
